@@ -1,3 +1,2 @@
 #EasyIP
-大一时因为经常需要在各不同IP设置间切换，所以写的小工具，部分源代码参考网上。
-不知为何用批处理、C和Java分别写了。
+Since I need to switch in different network environments, I wrote this simple tool to do it.
